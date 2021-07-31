@@ -1,2 +1,2 @@
 # General-Search-Solver
-A GENERAL SOLVER TO SEARCH PROBLEMS IMPLEMENTED BY BFS AND DFS. IT CAN BE USED TO SOLVE CLASSIC EIGHT PUZZLE PROBLEM
+A general solver to search problems implemented by bfs and dfs. it can be used to solve classic eight puzzle problem
